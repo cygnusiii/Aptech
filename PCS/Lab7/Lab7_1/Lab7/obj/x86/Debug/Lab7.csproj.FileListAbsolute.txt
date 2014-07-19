@@ -1,0 +1,5 @@
+Z:\Sem 2\PCS\Lab7\Lab7\bin\Debug\Lab7.exe
+Z:\Sem 2\PCS\Lab7\Lab7\bin\Debug\Lab7.pdb
+Z:\Sem 2\PCS\Lab7\Lab7\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Sem 2\PCS\Lab7\Lab7\obj\x86\Debug\Lab7.exe
+Z:\Sem 2\PCS\Lab7\Lab7\obj\x86\Debug\Lab7.pdb

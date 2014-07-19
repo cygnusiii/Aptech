@@ -1,0 +1,6 @@
+Z:\Sem 2\PCS\PCS_T4\PCS_T4\bin\Debug\PCS_T4.exe.config
+Z:\Sem 2\PCS\PCS_T4\PCS_T4\bin\Debug\PCS_T4.exe
+Z:\Sem 2\PCS\PCS_T4\PCS_T4\bin\Debug\PCS_T4.pdb
+Z:\Sem 2\PCS\PCS_T4\PCS_T4\obj\Debug\PCS_T4.csprojResolveAssemblyReference.cache
+Z:\Sem 2\PCS\PCS_T4\PCS_T4\obj\Debug\PCS_T4.exe
+Z:\Sem 2\PCS\PCS_T4\PCS_T4\obj\Debug\PCS_T4.pdb

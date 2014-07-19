@@ -1,0 +1,6 @@
+Z:\Sem 2\PCS\Lab4\Lab4\bin\Debug\Lab4.exe.config
+Z:\Sem 2\PCS\Lab4\Lab4\bin\Debug\Lab4.exe
+Z:\Sem 2\PCS\Lab4\Lab4\bin\Debug\Lab4.pdb
+Z:\Sem 2\PCS\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+Z:\Sem 2\PCS\Lab4\Lab4\obj\Debug\Lab4.exe
+Z:\Sem 2\PCS\Lab4\Lab4\obj\Debug\Lab4.pdb
